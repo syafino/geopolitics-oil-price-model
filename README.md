@@ -26,5 +26,5 @@ The most recent known price is extended with a **forecasted price point for July
 
 This predicted point is visualized on a line chart, preserving historical context and highlighting known conflict months.
 
-The model predicts price to be at 78.62, it currently sits at 74. I will get back to it to see the accuracy
+The model predicts price to be at 78.62, it currently sits at 74 (19 June 2025) . I will get back to it to see the accuracy
 
